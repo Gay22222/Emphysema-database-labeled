@@ -1,0 +1,46 @@
+# =============================
+# Python / Jupyter
+# =============================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.mlenv/
+mlenv/
+
+# =============================
+# Dataset binaries (IGNORE)
+# (keep .csv/.xlsx/.xls/.json... by NOT listing them here)
+# =============================
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.gif
+*.svg
+
+# Medical volumes
+*.nii
+*.nii.gz
+*.mha
+*.mhd
+*.nrrd
+*.dcm
+
+# Numpy binaries
+*.npz
+*.npy
+
+# =============================
+# OS / Editor
+# =============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

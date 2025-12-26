@@ -1,0 +1,1 @@
+slice_key,subject_id,level,label_code,label_name,severity_code,image_path,preprocessed_path,lung_area_px,lung_ratio,hu_min_in_mask,hu_max_in_mask,area_ratio,laa,touch_edge,qc_bad

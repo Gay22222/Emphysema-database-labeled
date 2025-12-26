@@ -1,0 +1,41 @@
+# ===============================
+# Python / Jupyter
+# ===============================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.mlenv/
+.venv/
+venv/
+.env
+
+# ===============================
+# Medical imaging data (IGNORE)
+# ===============================
+
+# Image files (ignore only images)
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.gif
+*.svg
+
+# Medical volumes (CT / MRI)
+*.nii
+*.nii.gz
+
+# NumPy binary data
+*.npz
+*.npy
+
+
+# ===============================
+# OS / Editor
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
